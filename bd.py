@@ -71,9 +71,7 @@ if __name__ == "__main__":
     
     print(' ')
     
-    print("The Show is about to start!!!")
-    
-    print(' ')
+    print("The Show is about to start!!! \n")
     
     show.start()
     
